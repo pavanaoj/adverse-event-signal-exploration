@@ -1,0 +1,9 @@
+ReportID,PatientAge,PatientGender,SuspectedDrug,Indication,AdverseReaction,ReactionOnsetDays,Severity,Outcome,ReporterType,AgeGroup,SeriousReport
+ADR-9001,45,Female,Amoxicillin,Bacterial Infection,Skin Rash & Hives,2,Mild,Recovered,Pharmacist,45–64,False
+ADR-9002,62,Male,Atorvastatin,Hyperlipidemia,Severe Muscle Myalgia,14,Moderate,Recovering,Physician,45–64,False
+ADR-9003,71,Female,Ciprofloxacin,UTI,Tendonitis,7,Severe,Hospitalized,Physician,65+,True
+ADR-9004,28,Male,Ibuprofen,Headache,Gastric Ulcer Bleed,5,Severe,Hospitalized,Patient,18–44,True
+ADR-9005,53,Female,Lisinopril,Hypertension,Persistent Dry Cough,21,Mild,Recovered,Pharmacist,45–64,False
+ADR-9006,39,Male,Metformin,Diabetes,Nausea & Diarrhea,1,Mild,Recovered,Patient,18–44,False
+ADR-9007,68,Male,Warfarin,Atrial Fibrillation,Uncontrolled Hemorrhage,10,Life-Threatening,Hospitalized,Physician,65+,True
+ADR-9008,50,Female,Paclitaxel,Chemotherapy,Peripheral Neuropathy,30,Moderate,Not Recovered,Oncologist,45–64,False
